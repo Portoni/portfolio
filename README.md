@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="bannergit.png" >
 </p>
 
 # Daniel Toni
